@@ -1,0 +1,9 @@
+<html>
+<div style='text-align: center'>
+    <p>Hey Kitty Girl!
+    Welcome to Rupurr's Drag Race! The best cat drag competition that has EVER existed!
+    You will be tested like never before, but if you show your <b>PURRISMA</b>, <b>MEWNIQUENESS</b>, <b>NURRVE</b>, and <b>TAILENT</b>, you will emerge as the
+    <b>TOP CAT QUEEN OF THE WORLD!</b>
+    So good luck! Start your engines. And may the <b>BEST KITTY GIRL WIN</b>!</p>
+</div>
+</html>
