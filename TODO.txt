@@ -1,2 +1,7 @@
 Character Class:
 - Add a picture attribute. Every character should have an image file associated with them.
+
+CatQueen Class:
+- Ensure that all attributes are balanced, give more consideration to their impact in Challenges.
+- Give some thought to the leveling system for CatQueens. Every level should allow you to add a point to one of the CatQueen's attributes.
+
