@@ -1,0 +1,2 @@
+Character Class:
+- Add a picture attribute. Every character should have an image file associated with them.
