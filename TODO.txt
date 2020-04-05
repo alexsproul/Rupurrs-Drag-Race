@@ -3,5 +3,12 @@ Character Class:
 
 CatQueen Class:
 - Ensure that all attributes are balanced, give more consideration to their impact in Challenges.
-- Give some thought to the leveling system for CatQueens. Every level should allow you to add a point to one of the CatQueen's attributes.
+- Should a CatQueen have a permanent level? It could increase the value of replay. Maybe a higher CatQueen level would be used to "unlock" certain game options?
 
+Racer Class:
+- Give some thought about the conditions for levelling. I am currently considering three options:
+    OPTION 1: Every time a Racer survives a Week, their level increases and they can spend a skill point.
+    OPTION 2: Every time a Racer survives and is NOT in the bottom two (or three?) their level increases.
+    OPTION 3: Every time a Racer survives and wins a challenge (or is in the top two or three), their level increases.
+- Consider if there should be a permanent levelling system as well to encourage replay value (see TODO in the CatQueen class).
+- Should a Racer's level have an impact on whether or not they win the Season? If level is dependent on challenge wins (or at least not being in the bottom), it could be used as a bonus to their score. (E.g., a level of 2 could be 1.02*score) at the end of the game.
