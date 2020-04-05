@@ -31,6 +31,7 @@ public class Main {
                 splitLines.add(line.split(DELIMITER));
                 line = reader.readLine();
             }
+            reader.close();
 
             for (int i = 0; i < splitLines.size(); i++){
                 racers.add(new Racer(splitLines.get(i)[0],
@@ -75,6 +76,8 @@ public class Main {
                 welcomeMessage += (line + "<br/>");
                 line = reader.readLine();
             }
+            
+            reader.close();
         }
         catch (FileNotFoundException e){
             System.out.println("Could not find WelcomeMessage.txt.");
